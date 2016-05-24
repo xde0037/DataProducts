@@ -31,4 +31,7 @@
    
    Shiny Application has been hosted at :  https://xde0037.shinyapps.io/MySlide
    ( this link some time gives Http 500 error , however it status shows running )
+  
+     RPUBS Presentation LINK : http://rpubs.com/xde0037/183279
 
+     https://xde0037.shinyapps.io/Test02/    #ShinyIO Uploaded link,

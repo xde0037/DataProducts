@@ -15,7 +15,7 @@
   All plots and summaries are dynamically generated through Shiny and R language features.
   UI section also gets drop-down from the data dynamically.
   
-  The GitHub Repo for this project is here:
+  The GitHub Repo for this project is here: https://github.com/xde0037/DataProducts
 
   Note for reproducibility : Simply take code and data files and keep all in one folder to reproduce.<br/>
   DownLoad these files, along with data files from data folder to reproduce : <br>
